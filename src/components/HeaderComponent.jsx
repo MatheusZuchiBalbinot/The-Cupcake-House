@@ -1,6 +1,6 @@
 import CupCake__Logo from '../assets/CupCake__Logo.png'
 
-export default function HeaderComponents() {
+export default function HeaderComponent() {
     return (
         <>
             <div id="header__LeftSide" className="col-span-1">
