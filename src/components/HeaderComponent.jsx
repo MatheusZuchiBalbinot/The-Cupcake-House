@@ -11,8 +11,8 @@ export default function HeaderComponent() {
             <div id="header__RightSide" className="col-span-5 my-auto justify-end text-slate-950" >
 
                 <div id='header_groupingButtons' className='justify-end flex gap-16 pr-12'>
-                    <div id='header__RightSide__buttons' className='m-4 hover:border-solid hover:border-b-2 hover:border-indigo-600'>
-                        <button>Home</button>
+                    <div id='header__RightSide__buttons' className='m-4 border-solid border-b-2 border-indigo-600'>
+                        <h2 className='px-4 font-mono text-center'> The Cupcake House</h2>
                     </div>
 
                     <div id='header__RightSide__buttons' className='m-4 hover:border-solid hover:border-b-2 hover:border-indigo-600'>
