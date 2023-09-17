@@ -1,0 +1,15 @@
+Como rodar o código:
+
+1 - Extrai-a o código;
+
+2 - Entra na pasta do código usando cd(Dentro de The-Cupcake-House);
+
+3 - Use no terminal do VScode 
+	- npm i 
+(provavelmente deverás baixar o Nodejs);
+
+4 - De o comando 
+	- npm run dev 
+no terminal;
+
+5 - Abra o link que aparecerá no terminal.
