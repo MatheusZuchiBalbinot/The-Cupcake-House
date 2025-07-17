@@ -1,17 +1,33 @@
-# The Cupcacke House
+# The Cupcake House
 
-### Como rodar o código:
+## Sobre o projeto
 
-1 - Extraia o código;
+**The Cupcake House** é um projeto acadêmico desenvolvido com o objetivo de demonstrar conhecimentos em desenvolvimento front-end. Ele foi elaborado como parte de um processo seletivo para participação em um projeto universitário.
 
-2 - Entre na pasta do código usando cd (Dentro de The-Cupcake-House);
+## Como executar o projeto
 
-3 - Use no terminal do VScode:
- - npm install
-(provavelmente você precisará baixar o Node.js);
+Siga os passos abaixo para rodar o projeto localmente:
 
-4 - Dê o comando:
- - npm run dev
-no terminal;
+1. **Extraia os arquivos do projeto** (caso estejam compactados).
 
-5 - Abra o link que aparecerá no terminal.
+2. **Acesse a pasta do projeto** usando o terminal:
+   ```bash
+   cd The-Cupcake-House
+   ```
+
+3. **Instale as dependências** com o seguinte comando:
+   ```bash
+   npm install
+   ```
+   > 💡 *É necessário ter o Node.js instalado. Se ainda não tiver, acesse: [https://nodejs.org](https://nodejs.org)*
+
+4. **Inicie o servidor de desenvolvimento**:
+   ```bash
+   npm run dev
+   ```
+
+5. **Acesse o projeto no navegador** através do link que será exibido no terminal (geralmente algo como `http://localhost:5173`).
+
+---
+
+✔️ Projeto com fins educacionais e para validação de habilidades em front-end.
